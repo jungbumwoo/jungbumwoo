@@ -1,4 +1,4 @@
-### 안정적이고 지속가능한 소프트웨어를 추구합니다 👋
+Hello, World! 👋
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=26&height=250&section=header&text=Hello,%20World!&fontSize=60)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jungbumwoo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jungbumwoo/github-readme-stats)
