@@ -3,7 +3,7 @@ Hello, World! 👋
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jungbumwoo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jungbumwoo/github-readme-stats)
 
-- 🔭 I’m currently working on Buzzvil
+
 <!--
 **jungbumwoo/jungbumwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
